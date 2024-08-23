@@ -1,6 +1,6 @@
 # Projeto de Modelagem de Banco de Dados - DbSchema
 
-Desenvolvimento de Primeiro Projeto de Mdelagem de Banco de Dados com DbSchema. `Aula 04, Exercício 1, Módulo 01 (SQL).` 
+Desenvolvimento de Primeiro Projeto de Modelagem de Banco de Dados com DbSchema (Ferramenta de design e gerenciamento de banco de dados visual). `Aula 04, Exercício 1, Módulo 01 (SQL).`
 
 Instituição: [Digital College Brasil](https://digitalcollege.com.br/) (Fortaleza/CE) <br>
 Curso: Data Analytics (Turma 18) <br>
@@ -218,6 +218,12 @@ Generated using [DbSchema](https://dbschema.com)
 |  | fk_tipo_contato_cliente_cliente | ( id\_cliente ) ref [public.cliente](#cliente) (id) |
 |  | fk_tipo_contato_cliente_tipo_contato | ( id\_tipo\_contato ) ref [public.tipo\_contato](#tipo\_contato) (id) |
 
+
+### Meus Contatos
+
+- Business Card - [Renato Albuquerque](https://rma-contacts.vercel.app/)
+- Linkedin - [renato-malbuquerque](https://www.linkedin.com/in/renato-malbuquerque/)
+- Discord - [Renato Albuquerque#0025](https://discordapp.com/users/992621595547938837)
 
 
 
