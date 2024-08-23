@@ -1,3 +1,14 @@
+# Projeto de Modelagem de Banco de Dados - DbSchema
+
+Desenvolvimento de Primeiro Projeto de Mdelagem de Banco de Dados com DbSchema. `Aula 04, Exercício 1, Módulo 01 (SQL).` 
+
+Instituição: [Digital College Brasil](https://digitalcollege.com.br/) (Fortaleza/CE) <br>
+Curso: Data Analytics (Turma 18) <br>
+Instrutora: [NayaraWakweski](https://github.com/NayaraWakewski) <br>
+
+<br>
+
+
 #aula_4
 Generated using [DbSchema](https://dbschema.com)
 
